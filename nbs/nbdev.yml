@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards_zr"
+  site-url: "https://ZHANGROU-99.github.io/nbdev_cards_zr"
+  description: "Learn how to use nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ZHANGROU-99/nbdev_cards_zr"
